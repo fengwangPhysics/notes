@@ -9,6 +9,9 @@ Welcome to notes's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :numbered:
 
-   md/sphinx-config
+   md/2016-11-04-sphinx-config
+   md/2016-10-24-hpc2
+   md/2016-11-06-torque
