@@ -19,3 +19,8 @@ And use web browser to view the htmls, e.g.
 ```
 firefox _build/html/index.html
 ```
+
+## How to contribute
+Welcome to contribute together.
+
+Please fork the repo, and make a pull request to add a new post.
