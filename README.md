@@ -20,6 +20,9 @@ And use web browser to view the htmls, e.g.
 firefox _build/html/index.html
 ```
 
+## contributors
+[__Feng Wang__](https://github.com/fengwangPhysics)
+
 ## How to contribute
 Welcome to contribute together.
 
